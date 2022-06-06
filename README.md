@@ -1,7 +1,15 @@
 # Burger-web
-Own project based in sketch on figma
+Own project for my portfolio in colaboration with Dennis Carmona Design
 
-STATIC WEB MADE WITH:
-FIGMA, HTML5, CSS3, BOOTSTRAP AND JS
+Features:
+-Desktop First
+-Responsive static web 
+-Good ux/ui
+
+
+Techologies:
+FIGMA, HTML5, CSS3, BOOTSTRAP, JS
+
 
 DESIGN BY: DENNIS CARMONA
+CODE BY : FEDERICO CACERES
